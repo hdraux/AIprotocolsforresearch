@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[402],{2639:e=>{e.exports=JSON.parse('{"tag":{"label":"qa","permalink":"/AIprotocolsforresearch/tags/qa","allTagsPath":"/AIprotocolsforresearch/tags","count":1,"items":[{"id":"qa/index","title":"Placeholder","description":"","permalink":"/AIprotocolsforresearch/qa/"}],"unlisted":false}}')}}]);
